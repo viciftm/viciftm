@@ -1,14 +1,11 @@
 ![viciftm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viciftm&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
-<br>
-
 Olá, eu sou a Victória!
 
-Aqui você encontrará projetos e estudos relacionados às tecnologias que venho aprendendo 
+Aqui você encontrará projetos e estudos relacionados às tecnologias <br>que venho aprendendo 
 e utilizando no meu dia a dia.
 
-![Cat Typing GIF](https://media.tenor.com/images/7f3b2481df3b3e5b9e21c5c9a6b5d5c8/tenor.gif)
-
+<img src="https://media1.tenor.com/m/y4Ie8h0H-TwAAAAd/cat-typing.gif" width="300"/>
 
 
 Linguagens e ferramentas que utilizo atualmente:
