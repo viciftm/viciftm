@@ -7,7 +7,8 @@ Olá, eu sou a Victória!
 Aqui você encontrará projetos e estudos relacionados às tecnologias que venho aprendendo 
 e utilizando no meu dia a dia.
 
-<div class="tenor-gif-embed" data-postid="22904866" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-typing-gif-22904866">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat+typing-gifs">Cat Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Cat Typing GIF](https://media.tenor.com/images/7f3b2481df3b3e5b9e21c5c9a6b5d5c8/tenor.gif)
+
 
 
 Linguagens e ferramentas que utilizo atualmente:
