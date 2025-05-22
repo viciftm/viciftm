@@ -19,9 +19,6 @@ Languages and tools I currently use:
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=viciftm&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viciftm&hide_progress=true" width="300"/>
-      </td>
     </tr>
   </table>
 </div>
