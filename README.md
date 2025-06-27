@@ -17,7 +17,7 @@ Languages and tools I currently use:
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=viciftm&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=victoriaif&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
       </td>
     </tr>
   </table>
