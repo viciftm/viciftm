@@ -3,7 +3,7 @@ Hello, I'm Victoria!
 <table>
   <tr>
     <td><img src="https://media1.tenor.com/m/y4Ie8h0H-TwAAAAd/cat-typing.gif" width="300"/></td>
-    <td><img src="[https://media.tenor.com/0AVn5U38iKIAAAAC/computer-funny.gif](https://tenor.com/pt-BR/view/computer-funny-linda-trash-my-computer-gif-15780507)" width="300"/></td> 
+    <td><img src="https://tenor.com/pt-BR/view/computer-funny-linda-trash-my-computer-gif-15780507" width="300"/></td> 
   </tr>
 </table>
 
