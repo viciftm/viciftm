@@ -1,12 +1,5 @@
 Hello, I'm Victoria!
 
-<table>
-  <tr>
-    <td><img src="https://media1.tenor.com/m/y4Ie8h0H-TwAAAAd/cat-typing.gif" height="300" width="400"/></td>
-    <td><img src="https://media1.tenor.com/m/FFkOPFbwhu0AAAAd/computer-funny.gif" height="300" width="400"/></td> 
-  </tr>
-</table>
-
 Here you'll find projects and studies related to the technologies
 I've been learning and using in my daily life.
 
